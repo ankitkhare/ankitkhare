@@ -19,5 +19,7 @@ My name is **Ankit Khare**, I'm Android Application Developer.
 ![JSON](https://img.shields.io/badge/-JSON-000?style=flat&logo=json&logoColor=9644F4)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat&logoColor=9644F4&logo=mysql)
 
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkhare&layout=compact&theme=midnight-purple&hide_border=true" title="Top Langs"/>
+
 
 You can also view all of my repositories [here](https://github.com/ankitkhare?tab=repositories&q=&type=source&language=).
