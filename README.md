@@ -10,6 +10,7 @@ My name is **Ankit Khare**, I'm Android Application Developer. here are some det
 	<a href="mailto:khareankit0804@gmail.com" target="_black"><img alt="Gmail Badge" src="https://img.shields.io/badge/-ankit.khare-9644F4?&style=flat&logo=Gmail&logoColor=white%22%20title=%22Gmail%20Badge" /></a>
 	<!-- Github -->
 	<a href="https://github.com/ankitkhare" target="_black"><img alt="GitHub Badge" src="https://img.shields.io/badge/-ankitkhare-9644F4?fff&style=flat&logo=github&logoColor=white" title="GitHub Badge" /></a>
+</p>
 
 <!-- GitHub Stats -->
 
