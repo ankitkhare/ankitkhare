@@ -16,7 +16,7 @@ My name is **Ankit Khare**, I'm Android Application Developer. here are some det
 
 <img alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkhare&theme=dracula&hide_border=true" title="Github Contributions"/>
 
-<img alt="Jeferson Lucas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ankitkhare&theme=dracula&show_icons=true&hide_border=true" title="Ankit Khare GitHub Stats"/>
+<img alt="Ankit Khare GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ankitkhare&theme=dracula&show_icons=true&hide_border=true" title="Ankit Khare GitHub Stats"/>
 
 
 <!-- Skills -->
